@@ -8,7 +8,7 @@
   - Hardware platforms and boards
   - Solutions
   - Design tools
-  - Benchmarks
+  - Design support
   
   
 ![Mi-V EchoSystem](/images/Mi-V_Bubbles.png)
@@ -39,7 +39,7 @@ Mi-V Ecosystem supports following hardware platforms
   - [SmartFusion2 M2S090 Eval-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Eval-Kit)
   - [SmartFusion2 M2S150 Adv. Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Advanced-Dev-Kit)
 - IGLOO2
-  - [IGLOO2 Creative board](https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board)
+  - [RISC-V Creative board](https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board)
 - RTG4
   - [RTG4 Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/RTG4-Development-Kit)
         
