@@ -33,13 +33,13 @@ below to go to the corresponding github repository.
 ### Hardware patforms and boards
 
 Mi-V Ecosystem supports following hardware platforms
+- IGLOO2
+  - [RISC-V Creative board](https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board)
 - PolarFire
   - [PolarFire Eval Kit](https://github.com/RISCV-on-Microsemi-FPGA/PolarFire-Eval-Kit)
 - SmartFusion2
   - [SmartFusion2 M2S090 Eval-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Eval-Kit)
   - [SmartFusion2 M2S150 Adv. Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Advanced-Dev-Kit)
-- IGLOO2
-  - [RISC-V Creative board](https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board)
 - RTG4
   - [RTG4 Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/RTG4-Development-Kit)
         
