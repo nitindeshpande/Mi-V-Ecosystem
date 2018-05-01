@@ -38,10 +38,10 @@ Mi-V Ecosystem supports following hardware platforms
 - PolarFire
   - [PolarFire Eval Kit](https://github.com/RISCV-on-Microsemi-FPGA/PolarFire-Eval-Kit)
 - SmartFusion2
-  - [SmartFusion2 M2S090 Eval-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Eval-Kit)
-  - [SmartFusion2 M2S150 Adv. Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Advanced-Dev-Kit)
+  - [SmartFusion2 M2S090 Security Eval Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Eval-Kit)
+  - [SmartFusion2 M2S150 Advanced Development Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Advanced-Dev-Kit)
 - RTG4
-  - [RTG4 Development-Kit](https://github.com/RISCV-on-Microsemi-FPGA/RTG4-Development-Kit)
+  - [RTG4 Development Kit](https://github.com/RISCV-on-Microsemi-FPGA/RTG4-Development-Kit)
         
 ### Solutions
 For ready to use Solutions on Mi-V hardware platforms refer [Solutions](https://github.com/RISCV-on-Microsemi-FPGA/Solutions)
