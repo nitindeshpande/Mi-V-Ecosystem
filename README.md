@@ -30,7 +30,7 @@ below to go to the corresponding github repository.
 - [uCOSII](https://github.com/RISCV-on-Microsemi-FPGA/uCOS)
 - [Mynewt](https://github.com/RISCV-on-Microsemi-FPGA/Mynewt)
     
-### Hardware patforms and boards
+### Hardware platforms and boards
 
 Mi-V Ecosystem supports following hardware platforms
 - IGLOO2
@@ -48,8 +48,8 @@ For ready to use Solutions on Mi-V hardware platforms refer [Solutions](https://
 
 ### Design tools
 - [Libero](https://github.com/RISCV-on-Microsemi-FPGA/Libero): Microsemi FPGA design tool
-- [SoftConsole](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole): Eclipse base software developement IDE
+- [SoftConsole](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole): Eclipse base software development IDE
 - [FlashPro](https://github.com/RISCV-on-Microsemi-FPGA/FlashPro): Programming and debug tool
 
-### Benchamraks
+### Benchmarks
 _Add more information here_
