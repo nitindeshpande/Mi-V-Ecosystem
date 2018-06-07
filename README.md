@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Welcome to Mi-V-Ecosystem
+  
+- A comprehensive offering to ease the adoption of RISC-V
+- Open. Lowest Power. Programmable RISC-V Solutions.
+- Mi-V Ecosystem consists of following components
+  - RISC-V CPUs
+  - Operating-Systems
+  - Hardware platforms and boards
+  - Solutions
+  - Design tools
+  - Design support
+  
+  
+![Mi-V EchoSystem](/images/Mi-V_Bubbles.png)
+  
 
-You can use the [editor on GitHub](https://github.com/RISCV-on-Microsemi-FPGA/Mi-V-Ecosystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### RISC-V CPUs
+Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions
+- RV32IMA
+- RV32IMAF
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more information on the CPUs supported by the Mi-V ecosystem see [Mi-V CPUs](https://github.com/RISCV-on-Microsemi-FPGA/CPUs)
 
-### Markdown
+### Operating Systems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mi-V Ecosystem supports following operating systems. Click on the highlighted links
+below to go to the corresponding github repository.
+- [FreeRTOS](https://github.com/RISCV-on-Microsemi-FPGA/FreeRTOS)
+- [LiteOS](https://github.com/RISCV-on-Microsemi-FPGA/LiteOS)
+- [uCOSII](https://github.com/RISCV-on-Microsemi-FPGA/uCOS)
+- [Mynewt](https://github.com/RISCV-on-Microsemi-FPGA/Mynewt)
+    
+### Hardware platforms and boards
 
-```markdown
-Syntax highlighted code block
+Mi-V Ecosystem supports following hardware platforms
+- IGLOO2
+  - [RISC-V Creative board](https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board)
+- PolarFire
+  - [PolarFire Eval Kit](https://github.com/RISCV-on-Microsemi-FPGA/PolarFire-Eval-Kit)
+- SmartFusion2
+  - [SmartFusion2 M2S090 Security Eval Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Eval-Kit)
+  - [SmartFusion2 M2S150 Advanced Development Kit](https://github.com/RISCV-on-Microsemi-FPGA/SmartFusion2-Advanced-Dev-Kit)
+- RTG4
+  - [RTG4 Development Kit](https://github.com/RISCV-on-Microsemi-FPGA/RTG4-Development-Kit)
+        
+### Solutions
+For ready to use Solutions on Mi-V hardware platforms refer [Solutions](https://github.com/RISCV-on-Microsemi-FPGA/Solutions)
 
-# Header 1
-## Header 2
-### Header 3
+### Design tools
+- [Libero](https://github.com/RISCV-on-Microsemi-FPGA/Libero): Microsemi FPGA design tool
+- [SoftConsole](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole): Eclipse base software development IDE
+- [FlashPro](https://github.com/RISCV-on-Microsemi-FPGA/FlashPro): Programming and debug tool
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RISCV-on-Microsemi-FPGA/Mi-V-Ecosystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Benchmarks
+_Add more information here_
