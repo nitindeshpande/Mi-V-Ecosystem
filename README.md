@@ -47,9 +47,9 @@ Mi-V Ecosystem supports following hardware platforms
 For ready to use Solutions on Mi-V hardware platforms refer [Solutions](https://github.com/RISCV-on-Microsemi-FPGA/Solutions)
 
 ### Design tools
-- [Libero](https://github.com/RISCV-on-Microsemi-FPGA/Libero): Microsemi FPGA design tool
+- [Libero](https://github.com/RISCV-on-Microsemi-FPGA/Design-Tools): Microsemi FPGA design tool
 - [SoftConsole](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole): Eclipse base software development IDE
-- [FlashPro](https://github.com/RISCV-on-Microsemi-FPGA/FlashPro): Programming and debug tool
+- [FlashPro](https://github.com/RISCV-on-Microsemi-FPGA/Design-Tools): Programming and debug tool
 
 ### Benchmarks
 _Add more information here_
