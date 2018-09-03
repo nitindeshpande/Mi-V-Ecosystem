@@ -29,6 +29,7 @@ below to go to the corresponding github repository.
 - [LiteOS](https://github.com/RISCV-on-Microsemi-FPGA/LiteOS)
 - [uCOSII](https://github.com/RISCV-on-Microsemi-FPGA/uCOS)
 - [Mynewt](https://github.com/RISCV-on-Microsemi-FPGA/Mynewt)
+- [ThreadX](https://github.com/RISCV-on-Microsemi-FPGA/ThreadX)
     
 ### Hardware platforms and boards
 
