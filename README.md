@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/images/microchip-logo.png" />
-</p>
+![Microchip_Logo](/images/microchip-logo.png)
 
 ## Welcome to Mi-V-Ecosystem
   
