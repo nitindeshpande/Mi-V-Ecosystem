@@ -31,7 +31,7 @@ below to go to the corresponding github repository.
 ### Hardware platforms and boards
 
 Mi-V Ecosystem supports following hardware platforms
-[Future-Avalanche-Board](https://miv-soft-riscv-cores-on-microchip-fpgas.github.io/Future-Avalanche-Board/)
+* [Future-Avalanche-Board](https://miv-soft-riscv-cores-on-microchip-fpgas.github.io/Future-Avalanche-Board/)
 
         
 ### Solutions
