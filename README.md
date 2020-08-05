@@ -1,4 +1,7 @@
-![Microchip_Logo](/images/microchip-logo.png)
+<p align="center">
+  <img src="/images/microchip-logo.png" />
+</p>
+
 ## Welcome to Mi-V-Ecosystem
   
 - A comprehensive offering to ease the adoption of RISC-V
