@@ -14,4 +14,4 @@ For more information on the CPUs supported by the Mi-V ecosystem see Mi-V CPUs
 ### Hardware platforms and boards
 
 Mi-V Ecosystem supports following hardware platforms
-* [Future-Avalanche-Board](https://miv-soft-riscv-cores-on-microchip-fpgas.github.io/Future-Avalanche-Board/)
+* [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
