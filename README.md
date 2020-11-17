@@ -21,4 +21,6 @@ Microchip PolarFire FPGAs
 * [Arrow-Everest-Board]()
 * [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
 
+Microchip RTG4 FPGA
+* [RTG4-Development-Kit]()
 
