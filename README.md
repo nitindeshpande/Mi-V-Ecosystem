@@ -15,12 +15,12 @@ For more information on the CPUs supported by the Mi-V ecosystem see Mi-V CPUs
 
 Mi-V Ecosystem supports following hardware platforms
 
-Microchip PolarFire FPGAs
+#### Microchip PolarFire FPGAs
 * [PolarFire-Evaluation-Kit]()
 * [PolarFire-Splash-Kit]()
 * [Arrow-Everest-Board]()
 * [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
 
-Microchip RTG4 FPGA
+#### Microchip RTG4 FPGA
 * [RTG4-Development-Kit]()
 
