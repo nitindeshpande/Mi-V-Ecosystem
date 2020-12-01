@@ -5,9 +5,10 @@
 
 ### RISC-V CPUs
 Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions
-- RV32IMC
-- RV32IMA
-- RV32IMAF
+- MIV_RV32
+- MIV_RV32IMA_L1_AHB
+- MIV_RV32IMA_L1_AXI
+- MIV_RV32IMAF_L1_AHB
 
 For more information on the CPUs supported by the Mi-V ecosystem see Mi-V CPUs
     
