@@ -1,7 +1,7 @@
 ## Welcome to Mi-V-Ecosystem
   
 - A comprehensive offering to ease the adoption of RISC-V
-- Open. Lowest Power. Programmable RISC-V Solutions.  
+- Open. Lowest Power. Programmable RISC-V Solutions.
 
 ### RISC-V CPUs
 Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions
@@ -23,5 +23,5 @@ Mi-V Ecosystem supports following hardware platforms
 * [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
 
 #### Microchip RTG4 FPGA
-* [RTG4-Development-Kit]()
+* [RTG4-Development-Kit](https://mi-v-soft-risc-v.github.io/RTG4-Development-Kit/)
 
