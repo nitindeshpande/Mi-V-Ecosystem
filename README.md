@@ -4,7 +4,8 @@
 - Open. Lowest Power. Programmable RISC-V Solutions.
 
 ### RISC-V CPUs
-Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions
+Mi-V Ecosystem supports following RISC-V processors
+- PolarFire SoC
 - MIV_RV32
 - MIV_RV32IMA_L1_AHB
 - MIV_RV32IMA_L1_AXI
@@ -15,6 +16,9 @@ For more information on the CPUs supported by the Mi-V ecosystem see Mi-V CPUs
 ### Hardware platforms and boards
 
 Mi-V Ecosystem supports following hardware platforms
+
+#### Microchip PolarFire SoC FPGAs
+* [PolarFire-Icicle-Kit-Reference-Design](https://github.com/polarfire-soc/icicle-kit-reference-design)
 
 #### Microchip PolarFire FPGAs
 * [PolarFire-Evaluation-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-Eval-Kit/)
